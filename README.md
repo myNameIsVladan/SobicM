@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vladan
 - 👀 I’m student/programmer
 - 🌱 Im student at Univesrity of Montenegro, majoring in Information Technology and computer science.
+- 💻 Aside of college,I'm full stack developer, I've finished -The Complete 2020 Web Development Bootcamp by Angela Yu and a few more courses.
 - 📫 This is my email: vladandjurovic001@gmail.com
 - 
 
