@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vladan
-- 👀 I’m programmer
-- 🌱 I’m currently learning Web-Development
+- 👀 I’m student/programmer
+- 🌱 Im student at Univesrity of Montenegro, majoring in Information Technology and computer science.
 - 📫 This is my email: vladandjurovic001@gmail.com
 - 
 
